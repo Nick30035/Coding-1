@@ -1,0 +1,10 @@
+JavaScript allows developers to create dynamic wbesite pages
+Fronttend libraries for building the visual or user of you app.
+The backend frameworks written in JS for collecting, managing, saving and sending data- Node.js 
+Javascript and Java arent the same
+JavaScript is Single-threaded meaning you can do one operation and the computer will read your code from bottom to top
+
+JavaScript Data Types
+StringsIn quotations "" letters, numbers, symbols
+Numbers; Your standard number 0-9
+Booleans; True or false statements 
