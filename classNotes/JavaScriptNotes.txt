@@ -7,4 +7,4 @@ JavaScript is Single-threaded meaning you can do one operation and the computer 
 JavaScript Data Types
 StringsIn quotations "" letters, numbers, symbols
 Numbers; Your standard number 0-9
-Booleans; True or false statements 
+Booleans; True or false statemets
