@@ -1,12 +1,11 @@
-// 1. The operator Logical
-// 2. The Assignment operator
-// console.log (ECG machines)
-// 3.
-// 4. The (=) operator in Javascript checks whether it's two operators are equal.
-// The (==) operator in Javascript compares the values of two variables after comparing type conversion
-// if necessary
-// The (||) operator in Javascript also known as the (logical disjunction) checks if one or more 
-// operators are true
-// The (&&) operator in Javascript is known as the logical AND operator, making sure both values are
-// on the left and right
-
+// 1. The operator "Logical"
+// 2. The "Comparison" operator 'because we need to check and compare if we have more or less based of what we ordered'
+// 3. The "Assignment" operator 'because we use this to make messages
+// 4. =
+'single equal sign = Assignment operator'
+// &&
+'double ampersand = Logical operator '
+// ||
+'double vertical slash = Logical OR operator ' 
+// ==
+'double equal =  comparison SAME/EQUAL operator'
