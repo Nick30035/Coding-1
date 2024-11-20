@@ -15,7 +15,7 @@ console.log(className)
 
 // function exampleFunction(){
     console.log('the function script is connected')
-}
+
 
 
 // in order to have a function work, we need to call it the above,
@@ -23,8 +23,11 @@ console.log(className)
 // not to actually run it
 
 // we access or call a function by writing its name
-exampleFunction()
+//exampleFunction()
 
-// var
-// let
-// const 
+let accountBalance =1000;
+
+function depositMoney(){
+let newBalance =accountBalance+200;
+document.getElementById("data").innerHTML=newBalance;
+}
