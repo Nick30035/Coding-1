@@ -27,7 +27,16 @@ console.log(className)
 
 let accountBalance =1000;
 
-function depositMoney(){
-let newBalance =accountBalance+200;
+function depositMoney(depositAmount){
+let newBalance =accountBalance+depositAmount;
 document.getElementById("data").innerHTML=newBalance;
 }
+function login(){
+    console.log('depending on the data, you will or will not ')
+    // if email is incorrect or doesn't
+}
+// Methods- Functions that contain other functions
+
+// data that we want to manipulate goes inside of the round brackets.
+// the instructions on what we want to do with the data
+// goes insdie of the curly brackets
