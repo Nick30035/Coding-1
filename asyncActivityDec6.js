@@ -1,28 +1,17 @@
-<!DOCTYPE>
-<html>
-<body>
-
-
-<p id="demo"></p>
-
-<script> 
-    let= newWord = 'Nick'
-
-    function reverseWord(Nick){
-
+function reverseWorld(word) {
+    var originalStr = "word";
+    var reversedStr = "";
+    for ( i = 0; i < originalStr.length(); i++) {
+      reversedStr = originalStr.charAt(i) + reversedStr;
     }
-reverseWord('Kcin')
+    console.log("Reversed string: "+ reversedStr);
+}
 
+reverseWorld('Nick')
 
+const word="Banana"
+const newWord = word.split("")
+const reverseWorld = newWord.reverse()
+console.log (reverseWord)
 
-document.getElementById("demo").innerHTML = myArray; 
-</script> 
-
-</body>
-</html>
-
-
-function stateLandMark({
-    let guest= 'Pennsylvania'
-    if()
-})
+// Reverse the Array
