@@ -1,11 +1,10 @@
 function numbers(positive,negative){
-    console.log('congrats the number you chose is positive'+positive+'your number will be accepted');
-        console.log('Oh no!'+negative+'the number you chose is negative and wont be accepted');
+    console.log('congrats'+ positive+'congrats your number is positive');
 }
+numbers(7) 
 
-numbers('7','-12')
+console.log('oh no'+negative+'your number is negative');
+numbers(-9)
 
 
-function movieProgram(agePrice){
-    console.log()
-}
+3. 
