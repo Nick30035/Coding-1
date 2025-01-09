@@ -9,5 +9,5 @@
 
 
 // functions -  level 3: taking the first two concepts and
-// organizing these operations and data types 
+// organizin g these operations and data types 
 // into instructions
