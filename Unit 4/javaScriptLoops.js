@@ -36,14 +36,13 @@ collegeTitleByYear();
 
 var groceryList = ['oranges, water, chicken breast']
 
-var RandomData =[Nick, 
-    2324,
-    'coding class',
-    true,
-    false
-
-]
-    
+var RandomData =['Nick', 202020,
+    202,323,
+'coding class',
+true, 
+false,
+groceryList
+]   
 console.log(RandomData)
 
 coding1s=['black cw, red, white']
