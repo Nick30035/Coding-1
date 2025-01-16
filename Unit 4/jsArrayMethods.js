@@ -48,3 +48,48 @@ console.log(generalList)
 // inside of a list
 console.log(generalList.length)
 
+
+// Arrays- a special data type for collecting
+// and storing data inside of a variable.
+
+// we declare an array by giving it a 
+// variable name, and then assigning it the
+// square brackets
+
+var numbers = [1,2,3,34,435,5566]
+var randomData = [true, 'name',numbers];
+
+
+//What is a method?
+// A method is a special type of function 
+// that works on lists (....and objects)
+
+// push() - this special function pushes new
+// data into a array.
+// PUSH needs an agrument passed into the array
+
+
+var snowGear = ['gloves, hats, mittens, coats']
+snowGear.push('snowboard')
+console.log('snowboard')
+
+// pop () - this is a special function for removing
+// an item from an array.
+// POP does not need an agrument. It will always
+// remove the last item in the array
+snowGear.pop()
+console.log(snowGear)
+
+// LIFO= last in, first out
+
+// length - counts the data items in the array
+// length does not take any arguments
+console.log(snowGear.length)
+
+snowGear.splice(1,1,'')
+console.log(snowGear)
+
+
+splice()
+
+
